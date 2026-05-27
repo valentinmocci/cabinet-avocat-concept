@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Photo 3 — façade rue Crébillon">
+  <rect width="1200" height="800" fill="#6E6B65"/>
+  <rect x="40" y="40" width="1120" height="720" fill="none" stroke="#F4EFE6" stroke-width="2"/>
+  <text x="600" y="380" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#F4EFE6">03</text>
+  <text x="600" y="440" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#F4EFE6">Façade · immeuble XIXᵉ Graslin</text>
+  <text x="600" y="475" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#F4EFE6">placeholder — photo réelle au prompt 3</text>
+</svg>
